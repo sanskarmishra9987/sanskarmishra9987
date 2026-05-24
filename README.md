@@ -5,8 +5,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!+👋+I'm+Sanskar;Passionate+about+ML+%26+AI+🤖;Building+intelligent+systems+🚀;Turning+data+into+insight+📊)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=0ea5e9&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=flat-square&color=8b5cf6)
+![Profile Views](https://komarev.com/ghpvc/?username=sanskarmishra9987&label=Profile+Views&color=0ea5e9&style=flat-square)
+![Followers](https://img.shields.io/github/followers/sanskarmishra9987?label=Followers&style=flat-square&color=8b5cf6)
 
 </div>
 
@@ -18,7 +18,7 @@
 class SanskarMishra:
     name      = "Sanskar Mishra"
     role      = "CS Engineer & AI/ML Enthusiast"
-    focus     = ["Machine Learning", "NLP", "Deep Learning", "Big Data"]
+    focus     = ["Machine Learning", "Deep Learning", "Big Data"]
     languages = ["Python", "SQL", "C++"]
     learning  = "Building AI systems that actually solve problems"
     motto     = "Data → Knowledge → Intelligence 🧠"
@@ -39,11 +39,6 @@ class SanskarMishra:
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-### 💬 NLP
-![NLTK](https://img.shields.io/badge/NLTK-154f5b?style=for-the-badge&logo=python&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 📊 Data Science & BDA
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -74,7 +69,6 @@ class SanskarMishra:
 | Domain | What I Work On |
 |--------|---------------|
 | 🤖 Machine Learning | Supervised & Unsupervised models, model evaluation |
-| 💬 NLP | Text classification, tokenization, transformers |
 | 🧬 Deep Learning | Neural networks, CNNs, sequence models |
 | 📦 Big Data Analytics | Data pipelines, Spark, large-scale processing |
 | 🗄️ DBMS | Schema design, query optimization, NoSQL |
@@ -85,8 +79,8 @@ class SanskarMishra:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sanskarmishra9987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=8b5cf6&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanskarmishra9987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=6" height="165"/>
 
 </div>
 
@@ -94,7 +88,7 @@ class SanskarMishra:
 
 ### 🔥 Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=38bdf8&ring=8b5cf6&fire=ffa657&currStreakLabel=38bdf8&sideLabels=8b5cf6&dates=8b949e&border_radius=8)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sanskarmishra9987&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=38bdf8&ring=8b5cf6&fire=ffa657&currStreakLabel=38bdf8&sideLabels=8b5cf6&dates=8b949e&border_radius=8)](https://git.io/streak-stats)
 
 </div>
 
@@ -102,7 +96,7 @@ class SanskarMishra:
 
 ### 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffa657&area=true&area_color=8b5cf6&hide_border=true&radius=6&custom_title=Sanskar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmishra9987&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffa657&area=true&area_color=8b5cf6&hide_border=true&radius=6&custom_title=Sanskar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -110,7 +104,7 @@ class SanskarMishra:
 
 ### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sanskarmishra9987&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -118,22 +112,22 @@ class SanskarMishra:
 
 ## 🎯 Currently
 
-- 🔭 Building **ML & NLP projects**
+- 🔭 Building **ML & AI projects**
 - 🌱 Learning **Deep Learning, Transformers & LLMs**
-- 💬 Ask me about **Python · ML · NLP · Databases · Big Data**
+- 💬 Ask me about **Python · ML · Databases · Big Data**
 - 🤝 Open to **collaborate on AI / Data Science projects**
 - ⚡ Fun fact: My best debugger is `print()` 😄
 
 ---
 
-## 🤝 Connect
+## 🤝 Connect with Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanskar-mishra-7131233b9)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sannskarrrrr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanskarmishra9987@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanskarmishra9987)
 
 </div>
 
@@ -145,6 +139,6 @@ class SanskarMishra:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=100&section=footer" width="100%"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=38bdf8&style=flat-square&label=Total+Visits)
+![Visitor Count](https://komarev.com/ghpvc/?username=sanskarmishra9987&color=38bdf8&style=flat-square&label=Total+Visits)
 
 </div>
