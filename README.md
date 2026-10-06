@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Sanskar%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineer%20·%20ML%20%26%20AI%20Enthusiast%20·%20Python%20Developer&descAlignY=58&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:8b5cf6&height=200&section=header&text=Sanskar%20Mishra&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=CS%20Engineer%20·%20ML%20and%20AI%20Enthusiast%20·%20Python%20Developer&descAlignY=58&descSize=17" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hello+World!+👋+I'm+Sanskar;Passionate+about+ML+%26+AI+🤖;Building+intelligent+systems+🚀;Turning+data+into+insight+📊)](https://git.io/typing-svg)
 
