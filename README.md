@@ -96,7 +96,7 @@ class SanskarMishra:
 
 ### 📈 Contribution Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanskarmishra9987&bg_color=0d1117&color=38bdf8&line=8b5cf6&point=ffa657&area=true&area_color=8b5cf6&hide_border=true&radius=6&custom_title=Sanskar's%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[View my GitHub contribution graph](https://github.com/sanskarmishra9987)
 
 </div>
 
@@ -104,7 +104,7 @@ class SanskarMishra:
 
 ### 🏆 Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sanskarmishra9987&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[View my GitHub profile](https://github.com/sanskarmishra9987)
 
 </div>
 
